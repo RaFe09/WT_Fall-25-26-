@@ -8,11 +8,11 @@
             font-family: Arial, sans-serif;
             padding: 20px;
             display: flex;
-            justify-content: center;   /* center horizontally */
+            justify-content: center;
         }
 
         .page {
-            width: 400px;              /* page width */
+            width: 400px;
         }
 
         h2 {
